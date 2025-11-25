@@ -1,0 +1,1 @@
+package com.library.exception; public class InsufficientCopiesException extends Exception { public InsufficientCopiesException(String m){super(m);} }
